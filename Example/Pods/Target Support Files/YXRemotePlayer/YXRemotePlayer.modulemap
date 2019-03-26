@@ -1,0 +1,6 @@
+framework module YXRemotePlayer {
+  umbrella header "YXRemotePlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

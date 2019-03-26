@@ -1,0 +1,6 @@
+framework module Pods_YXRemotePlayer_Tests {
+  umbrella header "Pods-YXRemotePlayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YXRemotePlayer (0.1.0)
+
+DEPENDENCIES:
+  - YXRemotePlayer (from `../`)
+
+EXTERNAL SOURCES:
+  YXRemotePlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXRemotePlayer: 2a7b6df851775a1e8f3f62886c7daef73a280eb5
+
+PODFILE CHECKSUM: dbcc87ceffa767d075e0960fe8d4f7d91ea914a4
+
+COCOAPODS: 1.7.0.beta.2
